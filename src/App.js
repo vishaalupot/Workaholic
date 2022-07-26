@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
       <Routes>
-        <Route exact path="/Workaholic" element={<SetTime/>}/>
+        <Route exact path="/" element={<SetTime/>}/>
         <Route exact path="/Time" element={<Time/>}/>
       </Routes>
       </BrowserRouter>
