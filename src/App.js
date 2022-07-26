@@ -12,11 +12,7 @@ function App() {
     <div className="App">
       <BrowserRouter>
       <Routes>
-<<<<<<< HEAD
         <Route exact path="/Workaholic" element={<SetTime/>}/>
-=======
-        <Route exact path="/Workaholic/" element={<SetTime/>}/>
->>>>>>> refs/remotes/origin/main
         <Route exact path="/Time" element={<Time/>}/>
       </Routes>
       </BrowserRouter>
