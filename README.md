@@ -1,3 +1,8 @@
+# Work-a-holic
+As the name suggests this simple web site helps to track the total amount of work you do in a week, which helps you to boost and track your productivity.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
